@@ -1,0 +1,6 @@
+{
+  "name": "My Ride",
+  "description": "Local ride booking app for Bike, Toto, Auto, Car, and SUV across Itahar, Baliyapara, and nearby areas in West Bengal, with Bengali, Hindi, and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
